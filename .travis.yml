@@ -32,7 +32,8 @@ notifications:
 # see: https://docs.travis-ci.com/user/job-lifecycle/#the-job-lifecycle
 
 
-# install:
+install:
+  - npm install
 
 # before_install:
 
